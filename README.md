@@ -2,7 +2,7 @@
 - 👀 I’m interested in Vehicle Dynamics Control
 - 🌱 I’m currently learning Dynamics of Tracked Vehicle
 - 💞️ I’m looking to collaborate on Vehicle Dynamcis Control
-- 📫 How to reach me email: chempolonium@gmail.com wechat: chemPolonium
+- 📫 How to reach me email: chempolonium@gmail.com
 
 <!---
 chemPolonium/chemPolonium is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
